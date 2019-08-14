@@ -22,8 +22,8 @@ I put a letter A, B, C, D and E to separete the topics, to be easy to study
 + Understand the architecture of the Android system
 + Be able to describe the basic building blocks of an Android app
 + Know how to build and run an Android app
-+ Display simple messages in a popup using a Toast or a Snackbar
-+ Be able to display a message outside your app's UI using Notifications
++ Display simple messages in a popup using a Toast or a Snackbar (ToastSnackBarActivity)
++ Be able to display a message outside your app's UI using Notifications (NotificationActivity)
 + Understand how to localize an app
 + Be able to schedule a background task using JobScheduler
 

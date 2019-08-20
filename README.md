@@ -25,7 +25,7 @@ I put a letter A, B, C, D and E to separete the topics, to be easy to study
 + Display simple messages in a popup using a Toast or a Snackbar (ToastSnackBarActivity)
 + Be able to display a message outside your app's UI using Notifications (NotificationActivity)
 + Understand how to localize an app
-+ Be able to schedule a background task using JobScheduler
++ Be able to schedule a background task using JobScheduler (JobSchedulerActivity)
 
 Reference:
 https://developers.google.com/training/certification/associate-android-developer/study-guide/android-core
